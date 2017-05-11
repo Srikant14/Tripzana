@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263937714226",
+    "project_id": "valid-aquifer-167313"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263937714226:android:8814fc957fd8b868",
+        "android_client_info": {
+          "package_name": "co.tripzana.tripzana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263937714226-lfhfbl5pu2jcn5fgh06kjg1pv47eu1oo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.tripzana.tripzana",
+            "certificate_hash": "99285822f25bc9ceef02438f145384405345ea66"
+          }
+        },
+        {
+          "client_id": "263937714226-g13fuhnst2lmhfelk2ksbl012im5gk15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZ_x_4jq2JmPcbRktmFa-W0A9ByAtSgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
