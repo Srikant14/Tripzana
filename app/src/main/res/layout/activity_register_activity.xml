@@ -18,8 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@mipmap/compass"
+        android:id="@+id/imageView"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="71dp"
-        android:id="@+id/imageView" />
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
